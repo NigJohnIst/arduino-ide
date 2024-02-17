@@ -1,0 +1,6 @@
+{
+    "sketch": "lightbox2a.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyUSB0"
+}

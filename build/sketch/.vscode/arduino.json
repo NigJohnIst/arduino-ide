@@ -1,0 +1,7 @@
+#line 1 "/home/brandartpm/lightbox2a/.vscode/arduino.json"
+{
+    "sketch": "lightbox2a.ino",
+    "output": "build",
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyUSB0"
+}
